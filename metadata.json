@@ -1,0 +1,7 @@
+{
+  "name": "GrammarGuru",
+  "description": "An adaptive English grammar tutor that uses Gemini to tailor explanations for your age and role, creates visual aids, and offers real-time conversation practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
